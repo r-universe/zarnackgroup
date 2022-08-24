@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BindingSiteFinder"]
+	path = BindingSiteFinder
+	url = https://github.com/zarnackgroup/bindingsitefinder
+	shallow = true
+	registered = true
+[submodule "m6Aboost"]
+	path = m6Aboost
+	url = https://github.com/zarnackgroup/m6aboost
+	shallow = true
+	registered = true
