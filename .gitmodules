@@ -8,3 +8,8 @@
 	url = https://github.com/zarnackgroup/bindingsitefinder
 	shallow = true
 	registered = true
+[submodule "m6Aboost"]
+	path = m6Aboost
+	url = https://github.com/zarnackgroup/m6aboost
+	shallow = true
+	registered = true
